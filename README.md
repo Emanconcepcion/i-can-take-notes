@@ -12,5 +12,5 @@ NONE
 
 ## Link
 
-https://github.com/Emanconcepcion/i-can-take-notes
-https://emanconcepcion.github.io/i-can-take-notes/
+* https://github.com/Emanconcepcion/i-can-take-notes
+* https://emanconcepcion.github.io/i-can-take-notes/
